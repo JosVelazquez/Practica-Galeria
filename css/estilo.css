@@ -1,0 +1,67 @@
+body{
+	background: url(uno.JPG);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+.capa{
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(130deg,#509fc9,#e83b59);
+	opacity: 5;
+}
+.Inicio{
+ border: 1px solid #641e16; 
+padding: 10px; 
+background-color:  #f1c40f; 
+color: #ffffff; 
+text-decoration: none;
+text-transform: uppercase; 
+font-family: 'Helvetica', sans-serif; 
+border-radius: 50px; 
+}
+.Inicio:hover{
+    color: #2c3e50;
+    background-color:  #bfc9ca;
+}
+.Listas{
+border: 1px solid #641e16; 
+padding: 10px; 
+background-color:  #f39c12; 
+color: #ffffff; 
+text-decoration: none;
+text-transform: uppercase; 
+font-family: 'Helvetica', sans-serif; 
+border-radius: 50px;  
+}
+.Listas:hover{
+    color: #2c3e50;
+    background-color:  #bfc9ca;
+}
+ .Tablas{
+ border: 1px solid #641e16; 
+padding: 10px; 
+background-color:  #e67e22 ; 
+color: #ffffff; 
+text-decoration: none; 
+text-transform: uppercase; 
+font-family: 'Helvetica', sans-serif; 
+border-radius: 50px; 
+}
+.Tablas:hover{
+    color: #2c3e50;
+    background-color:  #bfc9ca;
+}
+ .Formulario{
+ border: 1px solid #641e16; 
+padding: 10px; 
+background-color: #d35400; 
+color: #ffffff; 
+text-decoration: none; 
+text-transform: uppercase; 
+font-family: 'Helvetica', sans-serif; 
+border-radius: 50px;
+}
+.Formulario:hover{
+    color: #2c3e50;
+    background-color:  #bfc9ca;
+}
